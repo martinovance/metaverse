@@ -1,6 +1,6 @@
 'use client';
 
-import { motion } from "framer-motion";
+import { motion } from 'framer-motion';
 
 import { textContainer, textVariant, textVariant2 } from '../utils/motion';
 
